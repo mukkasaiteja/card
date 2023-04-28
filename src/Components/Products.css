@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+
+.productsiteams{
+ border: 1px solid white;
+    width: 300px;
+    padding:10px;
+    text-align: center;
+    color: white;
+   
+}
+.box {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+*{
+    background-color: black;
+}
